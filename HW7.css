@@ -1,0 +1,7 @@
+.a{
+  list-style-type: none;
+  padding: 0;
+}
+.b{
+  list-style-type: "- ";
+}
